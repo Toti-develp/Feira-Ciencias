@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Trabalho Feira",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "MeuApp",
+  "start_url": "index.html",
+  "theme_color": "#add8e6",
+   "icons": [
+    {
+      "src": "/imgs/Imagem final.png",
+      "type": "image/png"
+    }
+  ]
+}
